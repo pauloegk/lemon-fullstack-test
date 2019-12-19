@@ -11,7 +11,7 @@
   <br>
   O usuário poderá se autenticar e cadastrar na plataforma.
   <br>
-  Faça um fork deste projeto e ao finalizar nos avise através do e-mail peduardo@lemontech.com.br
+  Faça um fork deste projeto e ao finalizar nos avise através do e-mail
   <br>
   O Back-end e front deverão ser criados atendendo os requisitos abaixo 👇!
   <br>
