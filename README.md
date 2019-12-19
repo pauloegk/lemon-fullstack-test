@@ -24,6 +24,7 @@
   - Utilizar Java 8 ou superior
   - Stack Spring Framework
   - Testes unitários
+  - Postgresql
   - Padrões Restfull
   - Autenticação
   - Stateless
